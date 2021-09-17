@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnAvA4xx0X0O/HdwPExcz4RbsMKm4asV1F1eLrG7ceeoK+Sk02ftHoK1NHltj9ot5FNJH8sugf43zxrbps0pDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uruwj\\source\\repos\\hemdey\\hemdey\\hemdey.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uruwj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
