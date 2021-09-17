@@ -1,3 +1,3 @@
 # hemdayGlitch
-hemday.exeのグリッチデス
-実は。VisualBasicで開発されたファイルが多くなっています
+hemday.exeのグリッチです
+VisualBasicで開発されたためファイルが多くなっています
