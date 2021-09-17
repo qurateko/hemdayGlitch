@@ -1,0 +1,2 @@
+# hemdayGlitch
+hemday.exeのグリッチです
